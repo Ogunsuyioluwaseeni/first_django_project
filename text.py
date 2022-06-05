@@ -1,1 +1,1 @@
-var="This is a test"
+var="This is my first django project"
